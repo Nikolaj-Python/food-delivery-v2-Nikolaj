@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+  <rect width="900" height="500" fill="#fafafc"/>
+  <rect width="900" height="70" fill="#ff5a36"/>
+  <text x="30" y="45" font-family="Arial" font-size="28" fill="white" font-weight="bold">FoodDelivery — Меню</text>
+  <text x="40" y="120" font-family="Arial" font-size="20" fill="#222">🍕 Пицца Маргарита          450 ₽</text>
+  <text x="40" y="160" font-family="Arial" font-size="20" fill="#222">🍕 Пицца Пепперони          520 ₽</text>
+  <text x="40" y="200" font-family="Arial" font-size="20" fill="#222">🍕 Пицца Четыре сыра        580 ₽</text>
+  <text x="40" y="240" font-family="Arial" font-size="20" fill="#222">🍔 Бургер Классический      320 ₽</text>
+  <text x="40" y="280" font-family="Arial" font-size="20" fill="#222">🍟 Картофель фри            180 ₽</text>
+  <text x="40" y="320" font-family="Arial" font-size="20" fill="#222">🥤 Кола 0.5л                120 ₽</text>
+  <rect x="40" y="400" width="200" height="50" rx="12" fill="#ff5a36"/>
+  <text x="70" y="432" font-family="Arial" font-size="16" fill="white">В корзину</text>
+</svg>

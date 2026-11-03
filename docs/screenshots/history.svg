@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+  <rect width="900" height="500" fill="#fafafc"/>
+  <rect width="900" height="70" fill="#1976d2"/>
+  <text x="30" y="45" font-family="Arial" font-size="28" fill="white" font-weight="bold">FoodDelivery — История заказов</text>
+  <text x="40" y="120" font-family="Arial" font-size="18" fill="#222">Заказ #20261103123045 — 03.11.2026 12:30 — 918 ₽</text>
+  <text x="50" y="155" font-family="Arial" font-size="16" fill="#555">Email: user@example.com</text>
+  <text x="50" y="185" font-family="Arial" font-size="16" fill="#555">Адрес: ул. Примерная, д. 1</text>
+  <text x="50" y="215" font-family="Arial" font-size="16" fill="#555">Состав: Пицца Маргарита ×2, Кола ×1</text>
+  <text x="50" y="245" font-family="Arial" font-size="16" fill="#555">Начислено бонусов: +92 ⭐</text>
+  <text x="40" y="300" font-family="Arial" font-size="18" fill="#222">Заказ #20261102114500 — 02.11.2026 11:45 — 450 ₽</text>
+</svg>

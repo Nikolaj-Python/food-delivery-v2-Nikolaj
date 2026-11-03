@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+  <rect width="900" height="500" fill="#fafafc"/>
+  <rect width="900" height="70" fill="#2e7d32"/>
+  <text x="30" y="45" font-family="Arial" font-size="28" fill="white" font-weight="bold">FoodDelivery — Корзина</text>
+  <text x="40" y="120" font-family="Arial" font-size="20" fill="#222">Пицца Маргарита × 2          900 ₽</text>
+  <text x="40" y="160" font-family="Arial" font-size="20" fill="#222">Кола 0.5л × 1                120 ₽</text>
+  <text x="40" y="220" font-family="Arial" font-size="18" fill="#2e7d32">Промокод SAVE10 применён (−10%)</text>
+  <text x="40" y="270" font-family="Arial" font-size="20" fill="#222">Сумма: 1020 ₽</text>
+  <text x="40" y="310" font-family="Arial" font-size="20" fill="#222">Скидка: −102 ₽</text>
+  <text x="40" y="360" font-family="Arial" font-size="24" fill="#111" font-weight="bold">Итого: 918 ₽</text>
+</svg>
